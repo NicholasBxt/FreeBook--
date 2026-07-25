@@ -1,0 +1,21 @@
+# 09-艺术设计
+
+本分类共收录 15 本书。点击“查看”可打开 GitHub 文件页面，点击“下载”可直接获取原始文件。
+
+| 书名 | 简介 | 格式 | 链接 |
+| --- | --- | :---: | --- |
+| 超级版图 | 本书围绕“超级版图”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./超级版图.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E8%B6%85%E7%BA%A7%E7%89%88%E5%9B%BE.epub>) |
+| 超文案 | 本书围绕“超文案”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./超文案.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E8%B6%85%E6%96%87%E6%A1%88.epub>) |
+| 创意就是这么简单 | 本书围绕“创意就是这么简单”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./创意就是这么简单.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E5%88%9B%E6%84%8F%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95.epub>) |
+| 古老之美 | 本书围绕“古老之美”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./古老之美.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E5%8F%A4%E8%80%81%E4%B9%8B%E7%BE%8E.epub>) |
+| 旅行的艺术 | 本书围绕“旅行的艺术”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./旅行的艺术.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E6%97%85%E8%A1%8C%E7%9A%84%E8%89%BA%E6%9C%AF.epub>) |
+| 脑袋里装了2000出歌剧的人 | 本书围绕“脑袋里装了2000出歌剧的人”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./脑袋里装了2000出歌剧的人.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E8%84%91%E8%A2%8B%E9%87%8C%E8%A3%85%E4%BA%862000%E5%87%BA%E6%AD%8C%E5%89%A7%E7%9A%84%E4%BA%BA.epub>) |
+| 牛津通识读本：设计，无处不在 | 本书围绕“设计，无处不在”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./牛津通识读本：设计，无处不在.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E7%89%9B%E6%B4%A5%E9%80%9A%E8%AF%86%E8%AF%BB%E6%9C%AC%EF%BC%9A%E8%AE%BE%E8%AE%A1%EF%BC%8C%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8.epub>) |
+| 牛津通识读本：西方艺术新论 | 本书围绕“西方艺术新论”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./牛津通识读本：西方艺术新论.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E7%89%9B%E6%B4%A5%E9%80%9A%E8%AF%86%E8%AF%BB%E6%9C%AC%EF%BC%9A%E8%A5%BF%E6%96%B9%E8%89%BA%E6%9C%AF%E6%96%B0%E8%AE%BA.epub>) |
+| 品格之路 | 本书围绕“品格之路”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./品格之路.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E5%93%81%E6%A0%BC%E4%B9%8B%E8%B7%AF.epub>) |
+| 让创意更有黏性 | 本书围绕“让创意更有黏性”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./让创意更有黏性.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E8%AE%A9%E5%88%9B%E6%84%8F%E6%9B%B4%E6%9C%89%E9%BB%8F%E6%80%A7.epub>) |
+| 文案发烧 | 本书围绕“文案发烧”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./文案发烧.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E6%96%87%E6%A1%88%E5%8F%91%E7%83%A7.epub>) |
+| 文案训练手册 | 本书围绕“文案训练手册”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./文案训练手册.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E6%96%87%E6%A1%88%E8%AE%AD%E7%BB%83%E6%89%8B%E5%86%8C.epub>) |
+| 文案训练手册(解读版) | 本书围绕“文案训练手册”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./文案训练手册(解读版).epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E6%96%87%E6%A1%88%E8%AE%AD%E7%BB%83%E6%89%8B%E5%86%8C(%E8%A7%A3%E8%AF%BB%E7%89%88).epub>) |
+| 现代艺术150年 | 本书围绕“现代艺术150年”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./现代艺术150年.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF150%E5%B9%B4.epub>) |
+| 一页纸创意思考术 | 本书围绕“一页纸创意思考术”展开，侧重审美表达、创意方法与设计思维，适合希望提升审美判断和创作能力的读者。 | EPUB | [查看](<./一页纸创意思考术.epub>) · [下载](<https://raw.githubusercontent.com/NicholasBxt/FreeBook--/master/09-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1/%E4%B8%80%E9%A1%B5%E7%BA%B8%E5%88%9B%E6%84%8F%E6%80%9D%E8%80%83%E6%9C%AF.epub>) |
